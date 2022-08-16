@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Test Project</string>
+    <string name="next">Test</string>
+
+    <string name="hello_first_fragment">Click to run project</string>
+</resources>
